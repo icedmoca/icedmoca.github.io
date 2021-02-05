@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/icedmoca">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/icedmoca.png?size=80" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">My Portfolio Website</h3>
